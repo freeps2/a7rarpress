@@ -1,0 +1,25 @@
+/*
+	@author Interactive agency "Central marketing" http://iacm.ru
+	@copyright Copyright (c) 2015, Interactive agency "Central marketing"	
+	@license http://opensource.org/licenses/MIT The MIT License (MIT)
+	@version 2.0 at 24/02/2015 (19:45)
+	
+	goodshare.js
+	
+	Useful jQuery plugin that will help your website visitors share a link on social networks and microblogs.
+	Easy to install and configuring on any of your website!
+*/
+.goodshare-color{color:#666;}
+.goodshare-color a{color:#666;text-decoration:none;border:1px solid #999;border-radius:3px;margin:0 2px; }
+.goodshare-color a:hover{color:#fff;text-decoration:none;border:1px solid #999;background:#444;border-radius:3px;}
+.goodshare-color [data-type]{padding:4px 8px;cursor:pointer;}
+.goodshare-color [data-type="tw"]{background:#f8f8f8;}
+.goodshare-color [data-type="fb"]{background:#f8f8f8;}
+.goodshare-color [data-type="pt"]{background:#f8f8f8;}
+.goodshare-color [data-type="li"]{background:#f8f8f8;}
+.goodshare-color [data-type="bl"]{background:#f8f8f8;}
+.goodshare-color [data-type="di"]{background:#f8f8f8;}
+.goodshare-color [data-type="vk"]{background:#f8f8f8;}
+.goodshare-color [data-type="tm"]{background:#f8f8f8;}
+.goodshare-color.roundedge [data-type]{border-radius:3px;}
+.goodshare-color.round [data-type]{border-radius:100%;}
