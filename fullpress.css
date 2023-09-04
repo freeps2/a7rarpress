@@ -28,14 +28,11 @@
 	-o-transition: all 0s ease;
 	-ms-transition: all 0s ease;	
 	transition: all 0s ease;
-
 }
-
 .social_bookmarks li > a {
 	border-left: none !important;
 	border-right: none !important;
 }
-
 .social_bookmarks li:last-child > a {
 	border-left: none !important;
 	border-right: none !important;
@@ -44,8 +41,7 @@
 .team .social_bookmarks li {
 	float: right;
 }
-
-.social_bookmarks li a, .social-image a, a.codepen-icon, a.facebook-icon, a.behance-icon, a.twitter-icon, a.evernote-icon, a.flickr-icon, a.forrst-icon, a.googleplus-icon, a.linkedin-icon, a.paypal-icon, a.pinterest-icon, a.rss-icon, a.tumblr-icon, a.vimeo-icon, a.wordpress-icon, a.youtube-icon {
+.social_bookmarks li a, .social-image a, a.codepen-icon, a.facebook-icon, a.behance-icon, a.twitter-icon, a.evernote-icon, a.flickr-icon, a.forrst-icon, a.blogger-icon, a.linkedin-icon, a.paypal-icon, a.pinterest-icon, a.rss-icon, a.tumblr-icon, a.vimeo-icon, a.wordpress-icon, a.youtube-icon {
 	width: 16px;
 	height: 16px;
 	display: inline-block;
@@ -62,14 +58,12 @@
 	
 	background: #313131 url(http://1.bp.blogspot.com/-HT4foGTJ6zU/Uvpgfai8D3I/AAAAAAAADGQ/meLWOioFe3o/s1600/social-bg.png) no-repeat bottom right;
 }
-
-.social_bookmarks li a img, .social-image a img, a.codepen-icon img, a.facebook-icon img, a.behance-icon img, a.twitter-icon img, a.evernote-icon img, a.flickr-icon img, a.forrst-icon img, a.googleplus-icon img, a.linkedin-icon img, a.paypal-icon img, a.pinterest-icon img, a.rss-icon img, a.tumblr-icon img, a.vimeo-icon img, a.wordpress-icon img, a.youtube-icon img {
+.social_bookmarks li a img, .social-image a img, a.codepen-icon img, a.facebook-icon img, a.behance-icon img, a.twitter-icon img, a.evernote-icon img, a.flickr-icon img, a.forrst-icon img, a.blogger-icon img, a.linkedin-icon img, a.paypal-icon img, a.pinterest-icon img, a.rss-icon img, a.tumblr-icon img, a.vimeo-icon img, a.wordpress-icon img, a.youtube-icon img {
 	display: block;
 	width: 16px;
 	height: 16px;
     border-radius: 0px;
 }
-
 .social_bookmarks li a:hover, .social-image a:hover { 
 
 	background: #b81528 url(http://1.bp.blogspot.com/-HT4foGTJ6zU/Uvpgfai8D3I/AAAAAAAADGQ/meLWOioFe3o/s1600/social-bg.png) no-repeat top left;
@@ -80,7 +74,6 @@
 	-ms-transition: all 0.3s ease;	
 	transition: all 0.3s ease;
 }
-
 .social_bookmarks li a.youtube-icon:hover, a.youtube-icon:hover  {
 	background: #fc4f08 url(http://1.bp.blogspot.com/-HT4foGTJ6zU/Uvpgfai8D3I/AAAAAAAADGQ/meLWOioFe3o/s1600/social-bg.png) no-repeat top left;
 
@@ -90,7 +83,6 @@
 	-ms-transition: all 0.3s ease;	
 	transition: all 0.3s ease;
 }
-
 .social_bookmarks li a.codepen-icon:hover, a.dribbble-icon:hover {
 	background: #777777 url(http://1.bp.blogspot.com/-Hn-hv7MMpEI/Uv-WowC87lI/AAAAAAAADH4/GcsG2RB-CZk/s1600/social-bg.png) no-repeat top left;
 
@@ -100,7 +92,6 @@
 	-ms-transition: all 0.3s ease;	
 	transition: all 0.3s ease;
 }
-
 .social_bookmarks li a.twitter-icon:hover, a.twitter-icon:hover {
 	background: #00acee url(http://1.bp.blogspot.com/-HT4foGTJ6zU/Uvpgfai8D3I/AAAAAAAADGQ/meLWOioFe3o/s1600/social-bg.png) no-repeat top left;
 
@@ -110,11 +101,6 @@
 	-ms-transition: all 0.3s ease;	
 	transition: all 0.3s ease;
 }
-
-
-
-
-
 .social_bookmarks li a.flickr-icon:hover, a.flickr-icon:hover {
 	background: #fe007f url(http://1.bp.blogspot.com/-HT4foGTJ6zU/Uvpgfai8D3I/AAAAAAAADGQ/meLWOioFe3o/s1600/social-bg.png) no-repeat top left;
 
@@ -124,11 +110,8 @@
 	-ms-transition: all 0.3s ease;	
 	transition: all 0.3s ease;
 }
-
-
-
-.social_bookmarks li a.googleplus-icon:hover, a.googleplus-icon:hover {
-	background: #d63f43 url(http://1.bp.blogspot.com/-HT4foGTJ6zU/Uvpgfai8D3I/AAAAAAAADGQ/meLWOioFe3o/s1600/social-bg.png) no-repeat top left;
+.social_bookmarks li a.blogger-icon:hover, a.blogger-icon:hover {
+	background: #fc4f08 url(http://1.bp.blogspot.com/-HT4foGTJ6zU/Uvpgfai8D3I/AAAAAAAADGQ/meLWOioFe3o/s1600/social-bg.png) no-repeat top left;
 
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
@@ -136,7 +119,6 @@
 	-ms-transition: all 0.3s ease;	
 	transition: all 0.3s ease;
 }
-
 .social_bookmarks li a.linkedin-icon:hover, a.linkedin-icon:hover {
 	background: #3f81aa url(http://1.bp.blogspot.com/-HT4foGTJ6zU/Uvpgfai8D3I/AAAAAAAADGQ/meLWOioFe3o/s1600/social-bg.png) no-repeat top left;
 
@@ -146,8 +128,6 @@
 	-ms-transition: all 0.3s ease;	
 	transition: all 0.3s ease;
 }
-
-
 
 .social_bookmarks li a.pinterest-icon:hover, a.pinterest-icon:hover {
 	background: #d0494e url(http://1.bp.blogspot.com/-HT4foGTJ6zU/Uvpgfai8D3I/AAAAAAAADGQ/meLWOioFe3o/s1600/social-bg.png) no-repeat top left;
@@ -189,8 +169,6 @@
 	transition: all 0.3s ease;
 }
 
-
-
 .social_bookmarks li a.facebook-icon:hover, a.facebook-icon:hover {
 	background: #3b5998 url(http://1.bp.blogspot.com/-HT4foGTJ6zU/Uvpgfai8D3I/AAAAAAAADGQ/meLWOioFe3o/s1600/social-bg.png) no-repeat top left;
 
@@ -200,8 +178,6 @@
 	-ms-transition: all 0.3s ease;	
 	transition: all 0.3s ease;
 }
-
-
 .nav-search{
 	position:absolute;
 	left:0;
